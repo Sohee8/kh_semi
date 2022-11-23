@@ -1,0 +1,5 @@
+*.class
+kh_project/.settings/
+kh_project/.classpath
+kh_project/.project
+kh_project/build/classes/
